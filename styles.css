@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.navbar{
+    background-color: #2a007d;
+}
+.tes{
+    text-transform: uppercase;
+}
+.form-control{
+    height:43px;
+}
+hr{
+ color: #2a007d;
+}
+.btn{
+    background-color:#2a007d;
+    color:white;
+}
+a.navbar-brand,h1.text-center{
+    font-family: 'Playfair Display', serif;
+    font-weight:bold;
+}
+h1.text-center{
+    margin-top:95px;
+}
