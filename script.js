@@ -1,4 +1,4 @@
-function searchMovie(){ //arrow funtion
+function searchMovie(){ 
   // $.getJSON('http://omdbapi.com?apiley= &')
   $('#movie-list').html('');//jika ditukar judul pencarian maka pencarian sebelumnya tidak tampil
   $.ajax({
